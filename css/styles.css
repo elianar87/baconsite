@@ -5,8 +5,8 @@ h1 {
 }
 
 
-img {
-  background-color: red;
+img:hover {
+  background-color: yellow;
 }
 
 /*************** CLASS SELECTORS***********/
